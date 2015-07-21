@@ -1,0 +1,5 @@
+shell:
+  links:
+    - "redis:redis"
+  ports:
+    - "22:2222"
